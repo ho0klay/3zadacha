@@ -31,6 +31,7 @@ def battle(unit1, unit2):
 	else:
 		print(f'{unit1.name} победил!')	
 
+	
 unit1 = Warrior('1')
 unit2 = Warrior('2')
 battle(unit1, unit2)
